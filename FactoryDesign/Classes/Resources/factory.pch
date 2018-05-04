@@ -1,0 +1,22 @@
+//
+//  factory.pch
+//  FactoryDesign
+//
+//  Created by Dongxk on 2018/5/4.
+//  Copyright © 2018年 Dongxk. All rights reserved.
+//
+
+#ifndef factory_pch
+#define factory_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import <objc/runtime.h>
+#import <Masonry.h>
+#import <UIImageView+WebCache.h>
+
+
+#endif /* factory_pch */
+
+
